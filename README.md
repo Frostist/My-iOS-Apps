@@ -2,6 +2,21 @@
 
 A collection of iOS apps I've built — spanning productivity, dev tools, and personal projects. If you have issues or suggestions with any of these apps feel free to open a Issue in GitHub and ask away!
 
+### [OpenGraph](https://willfrost.co.za/projects/opengraph)
+<img src="https://willfrost.co.za/images/projects/OpenGraph.png" alt="OpenGraph" width="220">
+
+A lightweight app for previewing OpenGraph URLs locally on your iPhone, iPad or Mac! usful for website audits and LLMs.txt doc reading!
+
+### [PatchUp](https://willfrost.co.za/projects/patchup)
+<img src="https://willfrost.co.za/images/projects/PatchUp.png" alt="PatchUp" width="220">
+
+A simple and beautiful app to track game patch notes from Steam!
+
+### [AirCrafty](https://willfrost.co.za/projects/aircrafty)
+<img src="https://willfrost.co.za/images/projects/AirCrafty.png" alt="AirCrafty" width="220">
+
+Manage your plane's maintenance and repairs, and get notified when your documents need updating!
+
 ### [SarsMaat](https://willfrost.co.za/projects/sarsmaat)
 <img src="https://willfrost.co.za/images/projects/SarsMaat.png" alt="SarsMaat" width="220">
 
@@ -17,11 +32,6 @@ Movie ticket app with Apple Wallet integration, and also recently added store pa
 
 The ultimate note-taking companion for engineering and math students, with AI intergration with Google Gemini and LaTeX forumla.
 
-### [PatchUp](https://willfrost.co.za/projects/patchup)
-<img src="https://willfrost.co.za/images/projects/PatchUp.png" alt="PatchUp" width="220">
-
-A simple and beautiful app to track game patch notes from Steam!
-
 ### [Versely](https://willfrost.co.za/projects/versely)
 <img src="https://willfrost.co.za/images/projects/Versely.png" alt="Versely" width="220">
 
@@ -32,20 +42,10 @@ A beautiful Bible app for systematic Scripture reading via notifications.
 
 Developer tool for generating realistic test data with one click in the Safari web browser!
 
-### [AirCrafty](https://willfrost.co.za/projects/aircrafty)
-<img src="https://willfrost.co.za/images/projects/AirCrafty.png" alt="AirCrafty" width="220">
-
-Manage your plane's maintenance and repairs, and get notified when your documents need updating!
-
 ### [Boulder Climber](https://willfrost.co.za/projects/boulderclimber)
 <img src="https://willfrost.co.za/images/projects/BoulderClimber.png" alt="Boulder Climber" width="220">
 
 Become a boulder and climb some big hills, my first game I ever made!
-
-### [OpenGraph](https://willfrost.co.za/projects/opengraph)
-<img src="https://willfrost.co.za/images/projects/OpenGraph.png" alt="OpenGraph" width="220">
-
-A lightweight app for previewing OpenGraph URLs locally on your iPhone, iPad or Mac! usful for website audits and LLMs.txt doc reading!
 
 ---
 
