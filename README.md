@@ -1,4 +1,4 @@
-![My iOS Apps](./banner.svg)
+![My iOS Apps](./banner)
 
 A collection of iOS apps I've built — spanning productivity, dev tools, and personal projects. If you have issues or suggestions with any of these apps feel free to open a Issue in GitHub and ask away!
 
