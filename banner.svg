@@ -34,7 +34,13 @@
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
+
+    <clipPath id="roundedCorners">
+      <rect width="1200" height="300" rx="28" ry="28"/>
+    </clipPath>
   </defs>
+
+  <g clip-path="url(#roundedCorners)">
 
   <rect width="1200" height="300" fill="url(#bg)"/>
 
@@ -72,4 +78,6 @@
 
   <!-- thin rule under the tagline -->
   <rect x="540" y="206" width="120" height="2" rx="1" fill="#3A414C"/>
+
+  </g>
 </svg>
